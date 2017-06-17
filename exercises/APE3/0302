@@ -1,3 +1,5 @@
+\begin{solution}
+
 The main assumption here is that everyone knows if the other women are unfaithful but does not know if he is cuckold.
 
 \paragraph{}Let's assume that there is one cuckold ($k = 1$). As he knows, that the other women are faithful, he concludes that he is cuckold and kills his wife the same day! 
@@ -10,3 +12,5 @@ Therefore, on day two, cuckold 1 understands that cuckold 2 did not kill his wif
 \paragraph{}Keeping this logic, until \textit{k} cuckold lead us to the conclusion, that all of them kill their wives the $k$th day. Indeed, if a certain person know that there's $k - 1$ unfaithful women, and nothing happened the $(k-1)$th day. He understands, that if the $(k-1)$ other cuckolds didn't act, it is because they know his wife is cheating and each of them was expecting him to act the $k-1$th day. Hence he was the $k$th cuckold!
 
 In conclusion, there were 13th unfaithful women in Baghdad! 
+
+\end{solution}
